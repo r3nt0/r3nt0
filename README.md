@@ -128,7 +128,7 @@ Time      : 03:47 AM
 ♫ dark ambient + rain sounds
 ```
 
-<img src="./assets/hitagi.gif" width="100%"/>
+<img src="./assets/hitagi.jpg" width="100%"/>
 
 </td>
 </tr>
