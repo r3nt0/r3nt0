@@ -138,13 +138,7 @@ Time      : 03:47 AM
 
 # ~/github_stats
 
-<div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=r3nt0&show_icons=true&bg_color=00000000&title_color=ff4d6d&text_color=d1d1d1&icon_color=d72638&border_color=222222"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3nt0&layout=compact&bg_color=00000000&title_color=ff4d6d&text_color=d1d1d1&border_color=222222"/>
-
-</div>
 
 ---
 
@@ -160,20 +154,4 @@ Time      : 03:47 AM
     --gray: #7a7a7a;
 }
 ```
-
 ---
-
-<div align="center">
-
- “People have to save themselves.
- One person saving another is impossible.”
-
-### — Oshino Meme
-
-<br>
-
-# 「 君の知らない物語 」
-
-<br>
-
-</div>
