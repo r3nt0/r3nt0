@@ -165,8 +165,8 @@ Time      : 03:47 AM
 
 <div align="center">
 
-> “People have to save themselves.
-> One person saving another is impossible.”
+ “People have to save themselves.
+ One person saving another is impossible.”
 
 ### — Oshino Meme
 
@@ -174,10 +174,6 @@ Time      : 03:47 AM
 
 # 「 君の知らない物語 」
 
-### kimi no shiranai monogatari
-
 <br>
-
-### Tupananchiskama.
 
 </div>
