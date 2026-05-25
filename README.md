@@ -20,8 +20,6 @@
 ```js
 const developer = {
     name: "renato",
-    alias: "怪異専門プログラマ",
-    location: "Perú 🇵🇪",
 
     editor: "neovim",
     shell: "zsh",
@@ -38,7 +36,6 @@ const developer = {
         "Monogatari Series",
         "Linux Ricing",
         "Late Night Coding",
-        "Psychological Anime"
     ],
 
     currentStatus: "coding at 2AM",
