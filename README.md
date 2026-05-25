@@ -64,7 +64,7 @@ Mood      : sleep deprived
 Time      : 03:47 AM
 ```
 
-<img src="./assets/picture.jpg" width="100%"/>
+<img src="./assets/picture1.gif" width="100%"/>
 
 </td>
 </tr>
@@ -123,7 +123,7 @@ Time      : 03:47 AM
 ♫ dark ambient + rain sounds
 ```
 
-<img src="./assets/picture.gif" width="100%"/>
+<img src="./assets/picture2.gif" width="100%"/>
 
 </td>
 </tr>
