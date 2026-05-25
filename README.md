@@ -19,7 +19,7 @@
 
 ```js
 const developer = {
-    name: "your_name",
+    name: "renato",
     alias: "怪異専門プログラマ",
     location: "Perú 🇵🇪",
 
@@ -43,7 +43,6 @@ const developer = {
 
     currentStatus: "coding at 2AM",
 
-    motto: "Tupananchiskama"
 }
 ```
 
@@ -98,10 +97,8 @@ Time      : 03:47 AM
 [00:31] booting terminal
 [00:57] changing neovim config
 [01:44] fixing css alignment
-[02:12] watching bakemonogatari clips
 [02:51] debugging javascript
 [03:18] git commit -m "final_final_v7"
-[03:55] existential crisis
 [04:03] back to coding
 ```
 
@@ -111,9 +108,7 @@ Time      : 03:47 AM
 📂 code/
 📂 configs/
 📂 anime/
-📂 screenshots/
 📂 music/
-📂 thoughts.txt
 ```
 
 </td>
